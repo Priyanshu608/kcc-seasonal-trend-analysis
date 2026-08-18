@@ -1,0 +1,17 @@
+# Data & Large Files
+data/
+kaggle_data/
+*.csv
+*.parquet
+*.zip
+*.pkl
+*.h5
+
+# Credentials
+kaggle.json
+.env
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+venv/
